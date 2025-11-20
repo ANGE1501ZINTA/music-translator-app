@@ -1,6 +1,6 @@
 whisper
 detect
-GoogleTranslator
+googletrans==4.0.0-rc1
 re
 requests
 os
