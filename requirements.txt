@@ -1,5 +1,7 @@
 streamlit
 openai-whisper
 deep_translator
-requests
 langdetect
+requests
+ffmpeg
+ffmpeg-python
