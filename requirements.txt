@@ -1,0 +1,8 @@
+whisper
+detect
+GoogleTranslator
+re
+requests
+os
+tempfile
+streamlit
