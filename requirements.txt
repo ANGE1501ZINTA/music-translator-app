@@ -3,4 +3,4 @@ whisper
 langdetect
 deep_translator
 requests
-langdetect
+
