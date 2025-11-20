@@ -1,6 +1,5 @@
 streamlit
-whisper
-langdetect
+openai-whisper
 deep_translator
 requests
-
+langdetect
